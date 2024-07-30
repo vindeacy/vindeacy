@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...deacydavids70@gmail.com
 - UI/UX Designer
-- Location Kenya
+- Ask me anything about Javay, react js
+- currently learning node js, laravel
   
 
 <!---
