@@ -4,8 +4,7 @@
   applications that meet modern standards and user needs.
 
 - I’ve expanded my expertise into database management and development, with a deep understanding of MongoDB, PostgreSQL, MySQL, and phpMyAdmin. I’m also proficient in using Postman for seamless endpoint integration.
-
-- My growing knowledge and skills enable me to build dynamic, efficient, and user-focused web applications.
+  My growing knowledge and skills  enable me to build dynamic, efficient, and user-focused web applications.
 
 -Combining technical skills with a keen eye for design, I create visually appealing and user-centric applications that deliver exceptional experiences.
 
