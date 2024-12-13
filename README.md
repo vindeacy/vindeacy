@@ -10,6 +10,8 @@
 
 - Currently learning node js, laravel
 
+- Reach me: deacydavids70@gmail.com
+
 Let’s build something amazing together! 🚀
 
 <!---
