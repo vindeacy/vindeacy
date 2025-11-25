@@ -1,18 +1,88 @@
-- 👋 Hi there! I'm @vindeacy, a passionate software developer based in Nairobi, Kenya 🇰🇪. I specialize in JavaScript 🌐, with a strong focus on React ⚛️.
+<h1 align="center">Hi there, I'm Vincesher (Deacy Vin) 👋</h1>
+<h3 align="center">Full-Stack JavaScript Developer | React Enthusiast | Nairobi 🇰🇪</h3>
 
-- Recently graduated with a degree in Software Development, I have expanded my expertise to include advanced frontend development, efficient backend integration, and robust endpoint implementation. My skill set allows me to create seamless, full-stack       
-  applications that meet modern standards and user needs.
+<p align="center">
+  Passionate about building clean, user-centric and efficient web applications.
+</p>
 
-- I’ve expanded my expertise into database management and development, with a deep understanding of MongoDB, PostgreSQL, MySQL, and phpMyAdmin. I’m also proficient in using Postman for seamless endpoint integration.
-  My growing knowledge and skills  enable me to build dynamic, efficient, and user-focused web applications.
+---
 
--Combining technical skills with a keen eye for design, I create visually appealing and user-centric applications that deliver exceptional experiences.
+## 🚀 About Me
 
-- Currently learning node js, laravel
+I'm a dedicated software developer specializing in **JavaScript** and **React**, with a strong interest in modern full-stack development.
 
-- Reach me: deacydavids70@gmail.com
+Recently graduated in **Software Development**, I've built strong expertise in:
 
-Let’s build something amazing together! 🚀
+- ⚡ Advanced Frontend Architecture  
+- 🔗 Backend Integration & RESTful APIs  
+- 🛢️ Database Design & Management (MongoDB, PostgreSQL, MySQL)  
+- 🧪 API Testing with Postman  
+- 🎨 Clean UI/UX design with a developer mindset  
+
+I strive to build seamless, modern applications that solve real-world problems while offering a smooth user experience.
+
+---
+
+## 📚 Currently Learning
+- 🟩 Node.js  
+- 🚀 Laravel (PHP)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=vindeacy&show_icons=true&theme=tokyonight" height="165"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindeacy&layout=compact&theme=tokyonight" height="165"/>
+
+</div>
+
+---
+
+## 🏆 Contribution Summary Cards
+
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vindeacy&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vindeacy&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vindeacy&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,php,laravel,html,css,tailwind,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:deacydavids70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Let’s build something amazing together! ✨</p>
+
 
 <!---
 vindeacy/vindeacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
