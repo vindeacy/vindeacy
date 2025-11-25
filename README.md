@@ -29,17 +29,9 @@ I strive to build seamless, modern applications that solve real-world problems w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=vindeacy&show_icons=true&theme=tokyonight" height="165"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindeacy&layout=compact&theme=tokyonight" height="165"/>
-
-</div>
+  <a href="https://vincensher.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 ---
 
